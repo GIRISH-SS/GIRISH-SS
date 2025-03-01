@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am girish, Graduated with a BE in ECE from MVJ College of Engineering.I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.
+
 <!--
 **GIRISH-SS/GIRISH-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
